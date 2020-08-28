@@ -1,2 +1,17 @@
-# malltest
-a mall demo
+# Vue仿蘑菇街
+
+## 项目安装
+```
+npm install
+```
+
+### 项目运行
+```
+npm run serve
+```
+
+### 项目打包
+```
+npm run build
+```
+
