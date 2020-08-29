@@ -2,7 +2,7 @@ import axios from "axios";
 import { Toast } from "vant";
 import Loading from "../store/index";
 
-// 本接口为测试接口,真实接口请联系coderwhy001
+
 const url =  "http://152.136.185.210:8000/api/z8";
 
 let config = {
